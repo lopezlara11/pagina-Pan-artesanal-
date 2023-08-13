@@ -42,7 +42,7 @@
 .header-content h1{ 
   font-size: 75px;
   line-height: 80px;
-  color: white;
+  color:#fafafc;
   text-transform: uppercase;
   margin-bottom: 35px;
 }
@@ -51,6 +51,7 @@
   font-size: 16px;
   padding: 0 250px;
   margin-bottom:25px;
+  color:#fafafc;
 }
 
 .btn-1 {
