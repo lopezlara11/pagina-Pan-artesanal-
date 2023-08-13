@@ -257,6 +257,16 @@ align-items: center;
 
 }
 
+#nosotros iframe {
+  max-width: 100%;
+}
+
+#nosotros video {
+  max-width: 100%;
+  height: auto;
+}
+
+
 .mb h3{
 font-size: 16px;
 color: #f9fafc;
