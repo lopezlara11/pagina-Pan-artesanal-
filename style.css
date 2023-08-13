@@ -250,6 +250,10 @@ color: #eaccb3;
   margin-bottom 20px
 }
 
+@media (max-width: 768px) {
+  .bread-content h2,
+  .blog h2}
+
 .footer{
 padding:100px;
 background-color: #000000;
